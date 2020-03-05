@@ -1,5 +1,5 @@
 # Bazarpnz-Parser
-Parser of the http://bazarpnz.ru/ web site create with php. The parser using proxy to bypass a bazarpnz protection capcha, for change proxy addresses you need to modify 'proxies.txt' file in the parser directory.
+Parser of the bazarpnz.ru web site created with php. The parser using proxy to bypass a bazarpnz protection capcha, for change proxy addresses you need to modify 'proxies.txt' file in the parser directory.
 
 </br>###################################################################################</br>
 If my source codes will be helpful for you, you can say Thanks by donation:</br>
